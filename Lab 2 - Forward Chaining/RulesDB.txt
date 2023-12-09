@@ -1,0 +1,8 @@
+if the patient experience weight loss and the patient has pale skin color, then the patient has cancer
+if the patient has cancer, then the patient has loss of appetite
+if the patient has cancer, then the patient is feeling weak
+if the patient has fatigue and the patient has anaemia, then the patient has scurvy
+if the patient has fatigue and the patient has headache and the patient has loss of appetite and the patient has pale skin color, then the patient has anaemia
+if the patient has headache and the patient has a very high fever and the patient has a low platelet, then the patient has dengue fever
+if the patient is feeling tired and the patient is feeling weak, then the patient has fatigue
+if the patient is feeling tired and the patient is very thirsty and the patient experience weight loss, then the patient has type one diabetes

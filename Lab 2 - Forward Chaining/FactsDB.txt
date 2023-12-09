@@ -1,0 +1,4 @@
+the patient has cancer
+the patient has headache
+the patient has pale skin color
+the patient is feeling tired
